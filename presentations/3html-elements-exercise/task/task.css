@@ -1,0 +1,15 @@
+html{
+    background-color: grey;
+}
+body{
+    width:25%;
+    margin: auto;
+    background-color: white;
+    border-radius: 5%;
+    box-sizing: content-box;
+    text-align: left; 
+    padding-bottom: 10px;
+    display: block;
+    font-size: 20px;
+    padding-left: 10px;
+}
